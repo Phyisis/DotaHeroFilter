@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Heroes>
+    <Hero name="Abaddon">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Alchemist">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Ancient_Apparition">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="AntiMage">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Arc_Warden">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Axe">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Bane">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Roaming"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Batrider">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Beastmaster">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Bloodseeker">
+      <Tag name="Melee"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Bounty_Hunter">
+      <Tag name="Melee"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Brewmaster">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Bristleback">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Broodmother">
+      <Tag name="Melee"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Centaur_Warrunner">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Chaos_Knight">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Chen">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Clinkz">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Clockwerk">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Crystal_Maiden">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Roaming"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Dark_Seer">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Dark_Willow">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Dazzle">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Death_Prophet">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Disruptor">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Doom">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Dragon_Knight">
+      <Tag name="Melee"></Tag>
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Drow_Ranger">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Earth_Spirit">
+      <Tag name="Melee"></Tag>
+      <Tag name="Roaming"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Earthshaker">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Elder_Titan">
+      <Tag name="Melee"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Ember_Spirit">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Enchantress">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Enigma">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Faceless_Void">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Gyrocopter">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Huskar">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Invoker">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Io">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Jakiro">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Juggernaut">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Keeper_of_the_Light">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Kunkka">
+      <Tag name="Melee"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Legion_Commander">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Leshrac">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Lich">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Lifestealer">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Lina">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Lion">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Roaming"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Lone_Druid">
+      <Tag name="Melee"></Tag>
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Luna">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Lycan">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Magnus">
+      <Tag name="Melee"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Medusa">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Meepo">
+      <Tag name="Melee"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Mirana">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Monkey_King">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Morphling">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Naga_Siren">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Furion">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Necrophos">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Night_Stalker">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Nyx_Assassin">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Ogre_Magi">
+      <Tag name="Melee"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Omniknight">
+      <Tag name="Melee"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Oracle">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Roaming"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Outworld_Devourer">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Pangolier">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Phantom_Assassin">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Phantom_Lancer">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Phoenix">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Puck">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Pudge">
+      <Tag name="Melee"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Pugna">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Queen_of_Pain">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Razor">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Riki">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Rubick">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Sand_King">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Offlane"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Shadow_Demon">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Roaming"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Shadow_Fiend">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Shadow_Shaman">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Roaming"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Silencer">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Skywrath_Mage">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Slardar">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Slark">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Sniper">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Spectre">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Spirit_Breaker">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Storm_Spirit">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Sven">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Techies">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Offlane"></Tag>
+      <Tag name="Roaming"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Templar_Assassin">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Terrorblade">
+      <Tag name="Melee"></Tag>
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Tidehunter">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Timbersaw">
+      <Tag name="Melee"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Tinker">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Tiny">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Treant_Protector">
+      <Tag name="Melee"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Troll_Warlord">
+      <Tag name="Melee"></Tag>
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Tusk">
+      <Tag name="Melee"></Tag>
+      <Tag name="Roaming"></Tag>
+    </Hero>
+    <Hero name="Underlord">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Undying">
+      <Tag name="Melee"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Ursa">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+    </Hero>
+    <Hero name="Vengeful_Spirit">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Venomancer">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Viper">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+    <Hero name="Visage">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Warlock">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Weaver">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Windranger">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Winter_Wyvern">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Witch_Doctor">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Support"></Tag>
+    </Hero>
+    <Hero name="Wraith_King">
+      <Tag name="Melee"></Tag>
+      <Tag name="Safelane"></Tag>
+      <Tag name="Offlane"></Tag>
+    </Hero>
+    <Hero name="Zeus">
+      <Tag name="Ranged"></Tag>
+      <Tag name="Mid"></Tag>
+    </Hero>
+  </Heroes>
+
+  <UserTags>
+    <Tag name="Favorite"></Tag>
+    <Tag name="Melee"></Tag>
+    <Tag name="Ranged"></Tag>
+    <Tag name="Safelane"></Tag>
+    <Tag name="Mid"></Tag>
+    <Tag name="Offlane"></Tag>
+    <Tag name="Roaming"></Tag>
+    <Tag name="Support"></Tag>
+  </UserTags>
+</Data>

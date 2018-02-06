@@ -1,0 +1,650 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DotaHeroFilter
+</name>
+</assembly>
+<members>
+<member name="T:DotaHeroFilter.My.Resources.Resource1">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.abaddon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.alchemist">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.ancient_apparition">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.antimage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.arc_warden">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.axe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.bane">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.batrider">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.beastmaster">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.bloodseeker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.bounty_hunter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.brewmaster">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.bristleback">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.broodmother">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.centaur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.chaos_knight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.chen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.clinkz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.clockwerk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.crystal_maiden">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.dark_seer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.dark_willow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.Data">
+<summary>
+  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;
+&lt;Data&gt;
+  &lt;Heroes&gt;
+    &lt;Hero name=&quot;Abaddon&quot;&gt;
+      &lt;Tag name=&quot;Melee&quot;&gt;&lt;/Tag&gt;
+      &lt;Tag name=&quot;Offlane&quot;&gt;&lt;/Tag&gt;
+    &lt;/Hero&gt;
+    &lt;Hero name=&quot;Alchemist&quot;&gt;
+      &lt;Tag name=&quot;Melee&quot;&gt;&lt;/Tag&gt;
+      &lt;Tag name=&quot;Safelane&quot;&gt;&lt;/Tag&gt;
+      &lt;Tag name=&quot;Mid&quot;&gt;&lt;/Tag&gt;
+    &lt;/Hero&gt;
+    &lt;Hero name=&quot;Ancient_Apparition&quot;&gt;
+      &lt;Tag name=&quot;Ranged&quot;&gt;&lt;/Tag&gt;
+      &lt;Tag name=&quot;Support&quot;&gt;&lt;/Tag&gt;
+    &lt;/Hero&gt;
+    &lt;Hero name=&quot;AntiMage&quot;&gt;
+      &lt;Tag name=&quot;Melee&quot;&gt;&lt;/Tag&gt;
+      &lt;Tag name=&quot;Safelane&quot;&gt;&lt; [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.dazzle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.death_prophet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.disruptor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.doom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.dragon_knight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.drow_ranger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.earth_spirit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.earthshaker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.elder_titan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.ember_spirit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.enchantress">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.enigma">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.faceless_void">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.fade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.furion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.gyrocopter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.highlight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.huskar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.invoker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.io">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.jakiro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.juggernaut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.keeper_of_the_light">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.kunkka">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.legion_commander">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.leshrac">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.lich">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.lifestealer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.lina">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.lion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.lone_druid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.luna">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.lycan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.magnus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.medusa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.meepo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.mirana">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.monkey_king">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.morphling">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.naga_siren">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.necrophos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.night_stalker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.nyx_assassin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.ogre_magi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.omniknight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.oracle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.outworld_devourer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.pangolier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.phantom_assassin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.phantom_lancer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.phoenix">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.puck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.pudge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.pugna">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.queen_of_pain">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.razor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.riki">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.rubick">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.sand_king">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.shadow_demon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.shadow_fiend">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.shadow_shaman">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.silencer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.skywrath_mage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.slardar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.slark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.sniper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.spectre">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.spirit_breaker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.storm_spirit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.sven">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.techies">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.templar_assassin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.terrorblade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.tidehunter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.timbersaw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.tinker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.tiny">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.treant_protector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.troll_warlord">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.tusk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.underlord">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.undying">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.ursa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.vengeful_spirit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.venomancer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.viper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.visage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.warlock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.weaver">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.windranger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.winter_wyvern">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.witch_doctor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.wraith_king">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resource1.zeus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:DotaHeroFilter.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DotaHeroFilter.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

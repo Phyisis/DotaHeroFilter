@@ -1,0 +1,16 @@
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\bin\Debug\DotaHeroFilter.exe.manifest
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\bin\Debug\DotaHeroFilter.application
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\bin\Debug\DotaHeroFilter.exe
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\bin\Debug\DotaHeroFilter.pdb
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\bin\Debug\DotaHeroFilter.xml
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.frmMain.resources
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.Resource1.resources
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.Resources.resources
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.vbproj.GenerateResource.Cache
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.vbproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.exe.manifest
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.application
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.exe
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.xml
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.pdb
+C:\Users\Ben\source\repos\DotaHeroFilter\DotaHeroFilter\obj\Debug\DotaHeroFilter.vbprojResolveAssemblyReference.cache
